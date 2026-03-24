@@ -1,16 +1,41 @@
-# React + Vite
+# 🍅 Pomodoro Flow
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A cozy, aesthetic Pomodoro timer built for focused work sessions and mindful breaks.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Demo  
+👉 https://pomodoro-flow-mu.vercel.app  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Overview
 
-## Expanding the ESLint configuration
+Pomodoro Flow is a modern web-based Pomodoro timer designed with a warm, minimal, and cozy UI.  
+It helps users stay productive using structured focus sessions and relaxing breaks — all wrapped in a soft aesthetic experience.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧠 Features
+
+- ⏱ **Pomodoro / Short Break / Long Break modes**
+- ▶️ **Start, Pause, Reset controls**
+- 🔄 **Automatic session switching**
+- 📊 **Completed session tracking**
+- ⚙️ **Custom timer durations**
+- 💾 **LocalStorage persistence**
+- 🔊 **Sound notifications toggle**
+- 🧾 **Live browser tab timer updates**
+- 🎨 **Cozy UI with original CSS mascot**
+- 📱 **Responsive design**
+
+---
+
+## 🛠 Tech Stack
+
+| Tech        | Usage |
+|------------|------|
+| React      | UI & state management |
+| Vite       | Fast development & build |
+| JavaScript | Logic & functionality |
+| CSS        | Styling & mascot design |
